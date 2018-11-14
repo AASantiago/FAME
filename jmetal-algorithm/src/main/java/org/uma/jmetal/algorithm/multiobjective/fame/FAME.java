@@ -28,7 +28,7 @@ import org.uma.jmetal.util.solutionattribute.Ranking;
 import org.uma.jmetal.util.solutionattribute.impl.SSD;
 
 /**
- * @author Antonio J. Nebro <antonio@lcc.uma.es>
+ * @author Alejandro Santiago <aurelio.santiago@upalt.edu.mx>
  */
 public class FAME<S extends Solution<?>> extends SteadyStateNSGAII<S> {
   private double[] Utilization;
