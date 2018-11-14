@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-09-10T13:04:34</date>
+  <millis>1536602674086</millis>
+  <sequence>0</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.util.JMetalLogger</class>
+  <method>configureLoggers</method>
+  <thread>1</thread>
+  <message>Loggers configured with null</message>
+</record>
+<record>
+  <date>2018-09-10T13:04:34</date>
+  <millis>1536602674120</millis>
+  <sequence>1</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.runner.multiobjective.FAMERunner</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Total execution time: 7925ms</message>
+</record>
+<record>
+  <date>2018-09-10T13:04:34</date>
+  <millis>1536602674155</millis>
+  <sequence>2</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.runner.AbstractAlgorithmRunner</class>
+  <method>printFinalSolutionSet</method>
+  <thread>1</thread>
+  <message>Random seed: 1536602665938</message>
+</record>
+<record>
+  <date>2018-09-10T13:04:34</date>
+  <millis>1536602674155</millis>
+  <sequence>3</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.runner.AbstractAlgorithmRunner</class>
+  <method>printFinalSolutionSet</method>
+  <thread>1</thread>
+  <message>Objectives values have been written to file FUN.tsv</message>
+</record>
+<record>
+  <date>2018-09-10T13:04:34</date>
+  <millis>1536602674157</millis>
+  <sequence>4</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.runner.AbstractAlgorithmRunner</class>
+  <method>printFinalSolutionSet</method>
+  <thread>1</thread>
+  <message>Variables values have been written to file VAR.tsv</message>
+</record>
+</log>

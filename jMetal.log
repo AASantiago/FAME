@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2016-05-23T17:38:23</date>
+  <millis>1464017903056</millis>
+  <sequence>0</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.util.JMetalLogger</class>
+  <method>configureLoggers</method>
+  <thread>1</thread>
+  <message>Loggers configured with null</message>
+</record>
+<record>
+  <date>2016-05-23T17:38:23</date>
+  <millis>1464017903096</millis>
+  <sequence>1</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.runner.multiobjective.SMPSORunner</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Total execution time: 1866ms</message>
+</record>
+<record>
+  <date>2016-05-23T17:38:23</date>
+  <millis>1464017903114</millis>
+  <sequence>2</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.runner.AbstractAlgorithmRunner</class>
+  <method>printFinalSolutionSet</method>
+  <thread>1</thread>
+  <message>Random seed: 1464017901162</message>
+</record>
+<record>
+  <date>2016-05-23T17:38:23</date>
+  <millis>1464017903115</millis>
+  <sequence>3</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.runner.AbstractAlgorithmRunner</class>
+  <method>printFinalSolutionSet</method>
+  <thread>1</thread>
+  <message>Objectives values have been written to file FUN.tsv</message>
+</record>
+<record>
+  <date>2016-05-23T17:38:23</date>
+  <millis>1464017903116</millis>
+  <sequence>4</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.runner.AbstractAlgorithmRunner</class>
+  <method>printFinalSolutionSet</method>
+  <thread>1</thread>
+  <message>Variables values have been written to file VAR.tsv</message>
+</record>
+<record>
+  <date>2016-05-23T17:38:23</date>
+  <millis>1464017903274</millis>
+  <sequence>5</sequence>
+  <logger>org.uma.jmetal.util.JMetalLogger</logger>
+  <level>INFO</level>
+  <class>org.uma.jmetal.runner.AbstractAlgorithmRunner</class>
+  <method>printQualityIndicators</method>
+  <thread>1</thread>
+  <message>
+Hypervolume (N) : 0.9338320420210907
+Hypervolume     : 0.9338327326709359
+Epsilon (N)     : 0.012206257924195872
+Epsilon         : 0.012206129428918704
+GD (N)          : 0.024078606931028087
+GD              : 0.024078473011730606
+IGD (N)         : 0.007370140476157063
+IGD             : 0.007370122040820535
+IGD+ (N)        : 1.6064477441808659E-4
+IGD+            : 1.6064315379250065E-4
+Spread (N)      : 0.9229942279325294
+Spread          : 0.9229988525141172
+Error ratio     : 1.0
+</message>
+</record>
+</log>

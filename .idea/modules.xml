@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jmetal.iml" filepath="$PROJECT_DIR$/jmetal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jmetal-algorithm/jmetal-algorithm.iml" filepath="$PROJECT_DIR$/jmetal-algorithm/jmetal-algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jmetal-core/jmetal-core.iml" filepath="$PROJECT_DIR$/jmetal-core/jmetal-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jmetal-exec/jmetal-exec.iml" filepath="$PROJECT_DIR$/jmetal-exec/jmetal-exec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jmetal-problem/jmetal-problem.iml" filepath="$PROJECT_DIR$/jmetal-problem/jmetal-problem.iml" />
+    </modules>
+  </component>
+</project>
