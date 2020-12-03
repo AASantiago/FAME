@@ -7,4 +7,6 @@ A novel multi-objective evolutionary algorithm with fuzzy logic based adaptive s
 Information Sciences,Volume 471, 2019, Pages 233-251, ISSN 0020-0255, DOI:
 https://doi.org/10.1016/j.ins.2018.09.005.
 
+Author: Alejandro Santiago <aurelio.santiago@upalt.edu.mx>
+
 
